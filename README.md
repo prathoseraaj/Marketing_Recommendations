@@ -55,9 +55,11 @@ Selenium
 integrated flask into app.py. And build an html file called index.html inside templates folder.
 created selenium_test.py file which contains the selenium code for autotesting app.py
 
-![image](https://github.com/user-attachments/assets/973f8c08-0c69-4793-b039-b0d084f1d2ab)
+![Screenshot 2024-11-12 104317](https://github.com/user-attachments/assets/f7b90b07-78bc-45a6-85d7-6e198f3e13fb)
 
-![image](https://github.com/user-attachments/assets/774aaa2e-1942-4999-a052-85653dce458c)
+
+![image](https://github.com/user-attachments/assets/9bf552cd-c914-401c-a1a9-468d7aea79f4)
+
 
 
 
