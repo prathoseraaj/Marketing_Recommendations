@@ -31,8 +31,7 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
 6) Clicked build now
 
 #### Output
- ![image](https://github.com/user-attachments/assets/714c8665-a972-4166-96ab-f0a7ebc917c3)
-
+![Screenshot 2024-11-12 104248](https://github.com/user-attachments/assets/71a08a79-1d3c-4d4f-8a62-f35a9b25f814)
 
 
 ### Dockers
@@ -42,20 +41,18 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
 
 #### Output
   ##### Command Prompt
-![image](https://github.com/user-attachments/assets/ca64df36-d546-4218-9365-b2f66dadb7ff)
+  ![Screenshot 2024-11-12 104308](https://github.com/user-attachments/assets/d32c95d3-761c-4594-a600-2934f5489ff4)
 
-
-
-  
   ##### Docker Hub
-![image](https://github.com/user-attachments/assets/fd1f0e96-28c3-4bbf-9050-db251b9f911e)
+![Screenshot 2024-11-12 104317](https://github.com/user-attachments/assets/f7b90b07-78bc-45a6-85d7-6e198f3e13fb)
 
 Selenium
+
 
 integrated flask into app.py. And build an html file called index.html inside templates folder.
 created selenium_test.py file which contains the selenium code for autotesting app.py
 
-![Screenshot 2024-11-12 104317](https://github.com/user-attachments/assets/f7b90b07-78bc-45a6-85d7-6e198f3e13fb)
+
 
 
 ![image](https://github.com/user-attachments/assets/9bf552cd-c914-401c-a1a9-468d7aea79f4)
